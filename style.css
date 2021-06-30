@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #747d8c;
+}
+h1{
+	margin-top: 0;
+	background-color: #f1f2f6;
+	color: #2f3542;
+	padding: 1%;
+	width: 80%;
+	border-radius: 15px;
+
+}
+table{
+	width: 30%;
+}
+.main{
+	background-color: #f1f2f6;
+	color: #2f3542;
+	padding: 1%;
+	width: 80%;
+	margin-top:3%;
+	border-radius: 15px;
+
+}
+label{
+	padding: 1%;
+	margin: 1%;
+}
+input{
+	padding: 1%;
+	margin: 1%;
+}
+input[type='number']{
+	border-radius: 5px;
+	height: 20px;
+}
+footer{
+	width: 80%;
+	background-color: #f1f2f6;
+	color: #2f3542;
+	padding: 1%;
+	margin-top:3% ;
+	border-radius: 15PX;
+}
+.btn{
+	color: #F8EFBA;
+	background: #82589F;
+	padding: 5%;
+	border-color:grey ;
+	border-radius: 30px;
+}
+.btn:hover{
+	background-color: #6D214F;
+}
+a{
+	color: black;
+}
+a:hover{
+	color: #1B9CFC;
+}
+.tbl-5{
+	width: 5%;
+}
